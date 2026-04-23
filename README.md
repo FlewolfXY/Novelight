@@ -469,11 +469,6 @@ Novelight 正处于最早期阶段。我们在寻找：
 
 ---
 
-## 许可证
-
-MIT License。详见 [LICENSE](LICENSE)。
----
-
 <p align="center">
   <em>最后一页永远是空白的。它在等待明天。</em>
 </p>
